@@ -47,6 +47,8 @@ Evaluation
 ----
 To test our trained model, run **test_smooth.lua**.
 
+For the application of stylization, run **post_stylization.m** after predicting the smooth images. Similarly, for detail enhancement, run **post_detail_enhance.m**.
+
 Cite
 ----
 
